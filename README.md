@@ -2,7 +2,7 @@
 This repository contains R scripts that reproduce analyses for the project *A Biological Embodiment of Caregiving*. The code is organized into four scripts that should be run in sequence:
 
 1. **1_Data prepare.R** – prepares the analysis dataset and derives variables.
-2. **2_Preliminary modeling.R** – fits initial OLS models exploring associations.
+2. **2_Preliminary modeling.R** – fits initial GLM models exploring associations.
 3. **3_Weighting analysis.R** – performs inverse probability weighting diagnostics and models.
 4. **4_Forest plot.R** – creates the forest plots summarizing weighted results.
 
