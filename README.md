@@ -1,5 +1,4 @@
-# A Biological Embodiment of Caregiving
-
+# Code for A Biological Embodiment of Caregiving: A Longitudinal Study of Transitions and Gender Differences in Epigenetic Aging
 This repository contains R scripts that reproduce analyses for the project *A Biological Embodiment of Caregiving*. The code is organized into four scripts that should be run in sequence:
 
 1. **1_Data prepare.R** – prepares the analysis dataset and derives variables.
